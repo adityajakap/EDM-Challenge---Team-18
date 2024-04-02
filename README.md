@@ -1,4 +1,4 @@
-# EDM Challenge - Team-18
+# Tingkat Cyber Bullying di Berbagai Platform Sosial Media
 
 ## Team Member (Kelompok 18)
 - Aditya Jaka Prasaja (ARSS)
@@ -23,6 +23,4 @@ Maraknya penggunaan berbagai macam platform social media menjadi penyumbang pali
 ```Powershell
 print hello world
 ```
-
-Sales Dashboard: https://www.salesdashboard.pythonandvba.com/
 
