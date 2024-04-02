@@ -10,9 +10,9 @@
 Maraknya penggunaan berbagai macam platform social media menjadi penyumbang paling banyak dalam terjadinya **cyber bullying**. Maka dari itu, kami melakukan analisis menggunakan data komentar netizen pada salah satu postingan media sosial. Hasil dari analisis ini nantinya akan memberikan kesimpulan media sosial mana yang ramah pengguna dan minim terjadinya **cyber bullying**.
 
 ## Data Source
-1. [Instagram](https://www.instagram.com)
-2. [Twitter](https://twitter.com/home)
-3. [Facebook](https://www.facebook.com)
+•  [Instagram](https://www.instagram.com)
+•  [Twitter](https://twitter.com/home)
+•  [Facebook](https://www.facebook.com)
 
 ## Platform
   ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
