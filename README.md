@@ -1,1 +1,1 @@
-# EDM-Challenge---Team-18
+# EDM Challenge - Team-18
